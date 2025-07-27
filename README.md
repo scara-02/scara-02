@@ -8,9 +8,10 @@
 
 💡 I enjoy turning raw data into actionable insights using tools like pandas, NumPy, scikit-learn, and matplotlib.
 
-🚀 Currently working on:
+🚀 worked on:
 - 🏡 **Airbnb Price Prediction** (98% accuracy)
 - 📈 **Twitter Sentiment Analysis**
+- 📈 **Kindle Review Sentiment Analysis**
 - 🧠 **Toxic Comment Classification**
 - 🧬 **Personalized Disease Risk Predictor**
 
