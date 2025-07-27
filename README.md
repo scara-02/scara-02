@@ -21,9 +21,9 @@
 
 - 💻 Languages: `Python`, `C++`, `SQL`, `HTML/CSS`
 - 📊 Data Science: `pandas`, `NumPy`, `scikit-learn`, `XGBoost`, `matplotlib`, `seaborn`
-- 🤖 ML/DL: `scikit-learn`, `TensorFlow`, `Keras`, `OpenCV`
+- 🤖 ML/DL: `scikit-learn`, `TensorFlow`, `Keras`, `OpenCV`,'nltk'
 - 📦 Tools: `Jupyter`, `Google Colab`, `VSCode`, `Git`, `GitHub`
-- 🛠️ Deployment: `Flask`, `Streamlit` *(learning FastAPI)*
+- 🛠️ Deployment: `Flask`, `Streamlit` 
 
 ---
 
