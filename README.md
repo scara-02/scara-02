@@ -10,7 +10,6 @@
 
 🚀 worked on:
 - 🏡 **Airbnb Price Prediction** (98% accuracy)
-- 📈 **Twitter Sentiment Analysis**
 - 📈 **Kindle Review Sentiment Analysis**
 - 🧠 **Toxic Comment Classification**
 - 🧬 **Personalized Disease Risk Predictor**
