@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Data Science enthusiast who loves exploring data, building machine learning models, and solving real-world problems using Python.
+🎓 I'm a ML enthusiast who loves exploring data, building machine learning models, and solving real-world problems using Python.
 
 🔬 I’m passionate about data preprocessing, feature engineering, predictive modeling, and deploying ML systems.
 
