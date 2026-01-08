@@ -4,7 +4,7 @@
 
 Software Engineer and Data Science enthusiast passionate about building scalable, real-time applications and intelligent systems. I specialize in merging complex algorithms with modern full-stack architectures, leveraging C++, Python, and React to create high-performance solutions. My work focuses on Distributed Systems, Machine Learning integrations, and algorithmic optimization.
 🚀 worked on:
-- **SyncSpace
+- **SyncSpace**
 - **Airbnb Price Prediction** (98% accuracy)
 - **Kindle Review Sentiment Analysis**
 - **Toxic Comment Classification**
