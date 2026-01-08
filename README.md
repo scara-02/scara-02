@@ -2,22 +2,18 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a ML enthusiast who loves exploring data, building machine learning models, and solving real-world problems using Python.
-
-🔬 I’m passionate about data preprocessing, feature engineering, predictive modeling, and deploying ML systems.
-
-💡 I enjoy turning raw data into actionable insights using tools like pandas, NumPy, scikit-learn, and matplotlib.
-
+Software Engineer and Data Science enthusiast passionate about building scalable, real-time applications and intelligent systems. I specialize in merging complex algorithms with modern full-stack architectures, leveraging C++, Python, and React to create high-performance solutions. My work focuses on Distributed Systems, Machine Learning integrations, and algorithmic optimization.
 🚀 worked on:
-- 🏡 **Airbnb Price Prediction** (98% accuracy)
-- 📈 **Kindle Review Sentiment Analysis**
-- 🧠 **Toxic Comment Classification**
-- 🧬 **Personalized Disease Risk Predictor**
+- **SyncSpace
+- **Airbnb Price Prediction** (98% accuracy)
+- **Kindle Review Sentiment Analysis**
+- **Toxic Comment Classification**
+- **Personalized Disease Risk Predictor**
 
 ---
 
 ## 🔧 Tech Stack
-
+- 🌐 Softwar : `Nodejs` , `Expressjs` , `TypeScript` , `TailwindCSS`
 - 💻 Languages: `Python`, `C++`, `SQL`, `HTML/CSS`
 - 📊 Data Science: `pandas`, `NumPy`, `scikit-learn`, `XGBoost`, `matplotlib`, `seaborn`
 - 🤖 ML/DL: `scikit-learn`, `TensorFlow`, `Keras`, `OpenCV`,'nltk'
