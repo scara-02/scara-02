@@ -2,6 +2,7 @@
 ## 👨‍💻 About Me
 
 I specialize in building high-performance backend architectures, real-time data pipelines, and integrating machine learning models into scalable microservices. My work spans from developing dynamic pricing engines and real-time multiplayer infrastructures to architecting spatio-temporal predictive systems and open-source IoT telemetry platforms.And also Strong Foundation in Data Science Where i Build Price prediction software , NLP task , Clssification task and LLM Finetuning.
+
 🚀 worked on:
 - **SyncSpace**
 - **Fresh AI**
